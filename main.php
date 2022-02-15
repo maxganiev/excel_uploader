@@ -57,11 +57,3 @@ mysqli_free_result($res);
 
 //closing connection:
 mysqli_close($connection);
-
-
-//https://www.doabledanny.com/Deploy-PHP-And-MySQL-to-Heroku
-//https://webrewrite.com/create-composer-json-file-php-project/
-
-//mysql -u root -p
-//select user();
-//https://stackoverflow.com/questions/4093603/how-do-i-find-out-my-mysql-url-host-port-and-username/56656162
